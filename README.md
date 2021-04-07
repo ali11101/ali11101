@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ali11101
+- 👀 I recently started web development, and I don't know much about it but I'm learning something new day by day.
+- 🌱 I’m currently learning CSS but I find it a bit difficult and time consuming, so I've been considering moving to a framework or a UI kit for my projects.
+- I'll be looking forward to posting on github and I hope that in the near fututre I'm able to create my own repository, from scratch.
